@@ -1,5 +1,5 @@
 /* global api */
-class envi_Cambridge {
+class enfr_Cambridge {
     constructor(options) {
         this.options = options;
         this.maxexample = 2;
@@ -105,4 +105,3 @@ class envi_Cambridge {
         return css;
     }
 }
-1
